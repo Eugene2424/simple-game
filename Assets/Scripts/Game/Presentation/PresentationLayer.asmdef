@@ -1,0 +1,16 @@
+{
+    "name": "PresentationLayer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6053a73f4eb139143885c1af77dfb005"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
